@@ -87,6 +87,7 @@ https://d3ward.github.io/toolz/adblock.html
 - https://tool.rafis.eu/dashboard
 - https://www.eramba.org/eramba-software: Community
 - https://demo.cloud.eramba.org/dashboard
+- https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources
 
 ### Free Trial
 - https://advisera.com/articles/what-features-can-you-test-in-conformio-iso-27001-free-trial/
