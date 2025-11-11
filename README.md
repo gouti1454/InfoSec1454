@@ -91,7 +91,7 @@ https://d3ward.github.io/toolz/adblock.html
 
 ### Free Trial
 - https://advisera.com/articles/what-features-can-you-test-in-conformio-iso-27001-free-trial/
-- https://app.ismsmappings.com/
+- https://ismsmappings.com/
 - https://github.com/Arudjreis/awesome-security-GRC
 - https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md
 - https://www.cisecurity.org/insights/white-papers/cis-ram-risk-assessment-method
