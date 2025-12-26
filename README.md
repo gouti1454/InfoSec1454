@@ -62,6 +62,8 @@ Tailscale
 ### YouTube Downloader Using Python:
 - https://pypi.org/project/yt-dlp/
 
+### IPTV rog
+- https://github.com/iptv-org/iptv
 `Sudo snap install yt-dlp `
 or\
 `Sudo apt install yt-dlp`
