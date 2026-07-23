@@ -18,6 +18,14 @@
 
 ## Docker Images:
 - https://github.com/c4illin/ConvertX
+- https://gethomepage.dev/installation/docker/
+- https://hub.docker.com/r/homeassistant/home-assistant
+- https://github.com/jellyfin/jellyfin
+- https://github.com/netalertx/NetAlertX
+- https://hub.docker.com/r/pihole/pihole
+- https://docs.portainer.io/start/install-ce/server/docker/linux
+- https://github.com/alexjustesen/speedtest-tracker
+- https://hub.docker.com/r/linuxserver/speedtest-tracker
 
 ## WINDOWS Tweaks:
 
